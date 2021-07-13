@@ -47,7 +47,7 @@ header p {
   line-height: 17px;
 }
 
-header img {
+.mainpic {
   margin-top: 46px;
   width: 100%;
   border-radius: 12px;
@@ -224,7 +224,7 @@ footer {
     line-height: 15px;
   }
 
-  header img {
+  .mainpic {
     margin-top: 25px;
   }
 
